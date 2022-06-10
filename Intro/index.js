@@ -1,3 +1,5 @@
+// Blocking, synchronous way
+
 const fs = require('fs');
 
 // read file
